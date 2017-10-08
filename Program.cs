@@ -10,7 +10,7 @@ namespace Test
 			var machineName = Environment.MachineName;
 			var user = Environment.UserName;
 			var assemblyPath = Assembly.GetExecutingAssembly().Location;
-			Console.Write($"Tested by OLOLO {user}@{machineName} at {assemblyPath}");
+			Console.Write($"Tested by ALALA {user}@{machineName} at {assemblyPath}");
 		}
 	}
 }
